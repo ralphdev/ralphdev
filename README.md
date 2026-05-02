@@ -13,47 +13,72 @@ Ingeniero DevOps con experiencia en automatización, infraestructura como códig
 - 🖥️ Este es mi Portafolio ➡️ [Ralphcode](http://ralphcode.com)
 - Para proyectos puedes contactarme a  [rafa.developers@gmail.com](mailto:rafa.developers@gmail.com)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<p>
-<ul>
-<li>Backend</li>
-</ul>
+
+
+## 🛠 &nbsp;Tech Stack
+
+### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,fastapi,express,nestjs">
   </a>
 </p>
-<ul>
-<li>Frontend</li>
-</ul>
+
+## Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui">
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,css,bootstrap,tailwind,materialui,webpack">
   </a>
 </p>
-<ul>
-<li>Database</li>
-</ul>
+
+## Package
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,yarn,bun">
+  </a>
+</p>
+
+## Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
   </a>
 </p>
-<ul>
-<li>Cloud Servers</li>
-</ul>
+
+## Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare">
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,supabase,cloudflare">
   </a>
 </p>
-<ul>
-<li>Tools</li>
-</ul>
+
+## Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,bash,">
+  </a>
+</p>
+
+## CI / CD
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions">
+  </a>
+</p>
+
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ralphdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rafael-martínez-devops-lnkdn/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/ralphdev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=github">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/rafael-martínez-devops-lnkdn/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+</p>
 <a href="https://www.github.com/ralphdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ralphdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
