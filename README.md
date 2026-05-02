@@ -1,192 +1,31 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <title>Rafael Martínez - Developer</title>
-</head>
-<body class="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-slate-100">
-    <!-- Hero Section -->
-    <div class="min-h-screen flex items-center justify-center px-4 sm:px-6">
-        <div class="max-w-4xl w-full">
-            <!-- Profile Header -->
-            <div class="text-center mb-12">
-                <div class="mb-6">
-                    <div class="w-32 h-32 mx-auto bg-gradient-to-br from-blue-400 to-cyan-400 rounded-full flex items-center justify-center text-6xl shadow-2xl">👨‍💻</div>
-                </div>
-                
-                <h1 class="text-5xl sm:text-6xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-emerald-400 bg-clip-text text-transparent mb-4">
-                    Rafael Martínez
-                </h1>
-                
-                <p class="text-xl sm:text-2xl text-slate-300 mb-2">
-                    Desarrollador Full Stack | Frontend & Backend
-                </p>
-                
-                <p class="text-lg text-slate-400 mb-8">
-                    🇵🇦 Desde Panamá
-                </p>
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Rafael Martinez
+========================================================================================================================================
 
-                <!-- Social Links -->
-                <div class="flex justify-center gap-4 mb-8">
-                    <a href="https://linkedin.com/in/rafael-martínez-452000b5/" 
-                       class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 rounded-lg font-semibold transition-all transform hover:scale-105 shadow-lg">
-                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-                        LinkedIn
-                    </a>
-                    <a href="mailto:rafa@ralphcode.com" 
-                       class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-700 hover:to-blue-700 rounded-lg font-semibold transition-all transform hover:scale-105 shadow-lg">
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
-                        Email
-                    </a>
-                </div>
+DevOps Engineer
+---------------
 
-                <!-- Blog Link -->
-                <a href="https://ralphcode.com" 
-                   class="inline-block text-slate-300 hover:text-cyan-400 transition-colors text-lg">
-                    ✍️ Leer artículos en <span class="font-bold">ralphcode.com</span>
-                </a>
-            </div>
+Ingeniero DevOps con experiencia en automatización, infraestructura como código, CI/CD y gestión de entornos en la nube y on-premise. Habilidades en liderazgo de equipos, optimización de procesos tecnológicos y transformación digital. Busco aportar mi experiencia técnica y de gestión en la mejora continua de la infraestructura tecnológica de la empresa.
 
-            <!-- About Section -->
-            <div class="bg-slate-800 bg-opacity-50 backdrop-blur-sm rounded-xl p-8 mb-12 border border-slate-700 hover:border-slate-600 transition-colors shadow-xl">
-                <h2 class="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-4">Acerca de</h2>
-                <p class="text-slate-300 text-lg leading-relaxed">
-                    Desarrollador apasionado por crear aplicaciones web modernas y eficientes. Especializado en <strong>frontend</strong> y <strong>backend</strong> con experiencia en las últimas tecnologías. Me encanta aprender y compartir conocimiento con la comunidad.
-                </p>
-            </div>
+* 🌍  I'm based in Panama
+* 🖥️  See my portfolio at [Ralphcode](http://ralphcode.com)
+* ✉️  You can contact me at [rafa.developers@gmail.com](mailto:rafa.developers@gmail.com)
 
-            <!-- Tech Stack -->
-            <div class="mb-12">
-                <h2 class="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-8">Tecnologías & Herramientas</h2>
-                
-                <!-- Frontend -->
-                <div class="mb-8">
-                    <h3 class="text-xl font-bold text-emerald-400 mb-4">🎨 Frontend</h3>
-                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">⚛️</span>
-                            <span class="text-xs text-slate-300">React</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🅰️</span>
-                            <span class="text-xs text-slate-300">Angular</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">💚</span>
-                            <span class="text-xs text-slate-300">Vue.js</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🔴</span>
-                            <span class="text-xs text-slate-300">Svelte</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🎯</span>
-                            <span class="text-xs text-slate-300">TypeScript</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🌪️</span>
-                            <span class="text-xs text-slate-300">Tailwind</span>
-                        </div>
-                    </div>
-                </div>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+</p>
 
-                <!-- Backend & Databases -->
-                <div class="mb-8">
-                    <h3 class="text-xl font-bold text-blue-400 mb-4">⚙️ Backend & Bases de Datos</h3>
-                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🟢</span>
-                            <span class="text-xs text-slate-300">Node.js</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🔵</span>
-                            <span class="text-xs text-slate-300">Laravel</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🐘</span>
-                            <span class="text-xs text-slate-300">PHP</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🍃</span>
-                            <span class="text-xs text-slate-300">MongoDB</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🐘</span>
-                            <span class="text-xs text-slate-300">PostgreSQL</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🐬</span>
-                            <span class="text-xs text-slate-300">MySQL</span>
-                        </div>
-                    </div>
-                </div>
+### Socials
 
-                <!-- Tools & DevOps -->
-                <div>
-                    <h3 class="text-xl font-bold text-cyan-400 mb-4">🛠️ Herramientas & DevOps</h3>
-                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🐳</span>
-                            <span class="text-xs text-slate-300">Docker</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">📦</span>
-                            <span class="text-xs text-slate-300">Git</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🔨</span>
-                            <span class="text-xs text-slate-300">Webpack</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🚀</span>
-                            <span class="text-xs text-slate-300">Heroku</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">✉️</span>
-                            <span class="text-xs text-slate-300">Postman</span>
-                        </div>
-                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
-                            <span class="text-3xl mb-2">🎨</span>
-                            <span class="text-xs text-slate-300">Figma</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<p align="left"> <a href="https://www.github.com/ralphdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rafael-martínez-devops-lnkdn/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/ralphdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ralphdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-            <!-- Stats Section -->
-            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
-                <div class="bg-gradient-to-br from-blue-600 to-blue-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
-                    <div class="text-4xl font-bold text-white mb-2">100+</div>
-                    <div class="text-blue-100">Proyectos Completados</div>
-                </div>
-                <div class="bg-gradient-to-br from-cyan-600 to-cyan-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
-                    <div class="text-4xl font-bold text-white mb-2">5+</div>
-                    <div class="text-cyan-100">Años Experiencia</div>
-                </div>
-                <div class="bg-gradient-to-br from-emerald-600 to-emerald-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
-                    <div class="text-4xl font-bold text-white mb-2">∞</div>
-                    <div class="text-emerald-100">Pasión por Código</div>
-                </div>
-            </div>
+### Badges
 
-            <!-- Contact Section -->
-            <div class="bg-slate-800 bg-opacity-50 backdrop-blur-sm rounded-xl p-8 border border-slate-700 text-center shadow-xl">
-                <h2 class="text-2xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-4">¿Hablamos?</h2>
-                <p class="text-slate-300 mb-6">Siempre estoy disponible para nuevos proyectos y colaboraciones</p>
-                <div class="flex flex-col sm:flex-row justify-center gap-4">
-                    <a href="mailto:rafa@ralphcode.com" 
-                       class="px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-lg font-bold transition-all transform hover:scale-105">
-                        Enviar Email
-                    </a>
-                    <a href="https://ralphcode.com" 
-                       class="px-8 py-3 bg-slate-700 hover:bg-slate-600 rounded-lg font-bold transition-all transform hover:scale-105 border border-slate-600">
-                        Visitar Blog
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ralphdev"><img src="https://github-readme-stats.vercel.app/api?username=ralphdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ralphdev's GitHub stats" /></a>
+
+<a href="http://www.github.com/ralphdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ralphdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
