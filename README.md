@@ -1,18 +1,192 @@
-<h1 align="center">Hi 👋, I'm Rafael Martínez</h1>
-<h3 align="center">A passionate frontend and backend developer from Panamá</h3>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Rafael Martínez - Developer</title>
+</head>
+<body class="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-slate-100">
+    <!-- Hero Section -->
+    <div class="min-h-screen flex items-center justify-center px-4 sm:px-6">
+        <div class="max-w-4xl w-full">
+            <!-- Profile Header -->
+            <div class="text-center mb-12">
+                <div class="mb-6">
+                    <div class="w-32 h-32 mx-auto bg-gradient-to-br from-blue-400 to-cyan-400 rounded-full flex items-center justify-center text-6xl shadow-2xl">👨‍💻</div>
+                </div>
+                
+                <h1 class="text-5xl sm:text-6xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-emerald-400 bg-clip-text text-transparent mb-4">
+                    Rafael Martínez
+                </h1>
+                
+                <p class="text-xl sm:text-2xl text-slate-300 mb-2">
+                    Desarrollador Full Stack | Frontend & Backend
+                </p>
+                
+                <p class="text-lg text-slate-400 mb-8">
+                    🇵🇦 Desde Panamá
+                </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralphdev&label=Profile%20views&color=0e75b6&style=flat" alt="ralphdev" /> </p>
+                <!-- Social Links -->
+                <div class="flex justify-center gap-4 mb-8">
+                    <a href="https://linkedin.com/in/rafael-martínez-452000b5/" 
+                       class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 rounded-lg font-semibold transition-all transform hover:scale-105 shadow-lg">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                        LinkedIn
+                    </a>
+                    <a href="mailto:rafa@ralphcode.com" 
+                       class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-700 hover:to-blue-700 rounded-lg font-semibold transition-all transform hover:scale-105 shadow-lg">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+                        Email
+                    </a>
+                </div>
 
-- 📝 I regularly write articles on [ralphcode.com](ralphcode.com)
+                <!-- Blog Link -->
+                <a href="https://ralphcode.com" 
+                   class="inline-block text-slate-300 hover:text-cyan-400 transition-colors text-lg">
+                    ✍️ Leer artículos en <span class="font-bold">ralphcode.com</span>
+                </a>
+            </div>
 
-- 📫 How to reach me **rafa@ralphcode.com**
+            <!-- About Section -->
+            <div class="bg-slate-800 bg-opacity-50 backdrop-blur-sm rounded-xl p-8 mb-12 border border-slate-700 hover:border-slate-600 transition-colors shadow-xl">
+                <h2 class="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-4">Acerca de</h2>
+                <p class="text-slate-300 text-lg leading-relaxed">
+                    Desarrollador apasionado por crear aplicaciones web modernas y eficientes. Especializado en <strong>frontend</strong> y <strong>backend</strong> con experiencia en las últimas tecnologías. Me encanta aprender y compartir conocimiento con la comunidad.
+                </p>
+            </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/rafael-martínez-452000b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rafael-martínez-452000b5/" height="30" width="40" /></a>
-</p>
+            <!-- Tech Stack -->
+            <div class="mb-12">
+                <h2 class="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-8">Tecnologías & Herramientas</h2>
+                
+                <!-- Frontend -->
+                <div class="mb-8">
+                    <h3 class="text-xl font-bold text-emerald-400 mb-4">🎨 Frontend</h3>
+                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">⚛️</span>
+                            <span class="text-xs text-slate-300">React</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🅰️</span>
+                            <span class="text-xs text-slate-300">Angular</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">💚</span>
+                            <span class="text-xs text-slate-300">Vue.js</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🔴</span>
+                            <span class="text-xs text-slate-300">Svelte</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🎯</span>
+                            <span class="text-xs text-slate-300">TypeScript</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🌪️</span>
+                            <span class="text-xs text-slate-300">Tailwind</span>
+                        </div>
+                    </div>
+                </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+                <!-- Backend & Databases -->
+                <div class="mb-8">
+                    <h3 class="text-xl font-bold text-blue-400 mb-4">⚙️ Backend & Bases de Datos</h3>
+                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🟢</span>
+                            <span class="text-xs text-slate-300">Node.js</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🔵</span>
+                            <span class="text-xs text-slate-300">Laravel</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🐘</span>
+                            <span class="text-xs text-slate-300">PHP</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🍃</span>
+                            <span class="text-xs text-slate-300">MongoDB</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🐘</span>
+                            <span class="text-xs text-slate-300">PostgreSQL</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🐬</span>
+                            <span class="text-xs text-slate-300">MySQL</span>
+                        </div>
+                    </div>
+                </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralphdev&show_icons=true&locale=en&layout=compact" alt="ralphdev" /></p>
+                <!-- Tools & DevOps -->
+                <div>
+                    <h3 class="text-xl font-bold text-cyan-400 mb-4">🛠️ Herramientas & DevOps</h3>
+                    <div class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🐳</span>
+                            <span class="text-xs text-slate-300">Docker</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">📦</span>
+                            <span class="text-xs text-slate-300">Git</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🔨</span>
+                            <span class="text-xs text-slate-300">Webpack</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🚀</span>
+                            <span class="text-xs text-slate-300">Heroku</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">✉️</span>
+                            <span class="text-xs text-slate-300">Postman</span>
+                        </div>
+                        <div class="bg-slate-700 hover:bg-slate-600 rounded-lg p-4 flex flex-col items-center justify-center transition-all transform hover:scale-110 shadow-md cursor-pointer">
+                            <span class="text-3xl mb-2">🎨</span>
+                            <span class="text-xs text-slate-300">Figma</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats Section -->
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
+                <div class="bg-gradient-to-br from-blue-600 to-blue-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
+                    <div class="text-4xl font-bold text-white mb-2">100+</div>
+                    <div class="text-blue-100">Proyectos Completados</div>
+                </div>
+                <div class="bg-gradient-to-br from-cyan-600 to-cyan-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
+                    <div class="text-4xl font-bold text-white mb-2">5+</div>
+                    <div class="text-cyan-100">Años Experiencia</div>
+                </div>
+                <div class="bg-gradient-to-br from-emerald-600 to-emerald-700 rounded-lg p-6 text-center shadow-lg transform hover:scale-105 transition-transform">
+                    <div class="text-4xl font-bold text-white mb-2">∞</div>
+                    <div class="text-emerald-100">Pasión por Código</div>
+                </div>
+            </div>
+
+            <!-- Contact Section -->
+            <div class="bg-slate-800 bg-opacity-50 backdrop-blur-sm rounded-xl p-8 border border-slate-700 text-center shadow-xl">
+                <h2 class="text-2xl font-bold text-transparent bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text mb-4">¿Hablamos?</h2>
+                <p class="text-slate-300 mb-6">Siempre estoy disponible para nuevos proyectos y colaboraciones</p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4">
+                    <a href="mailto:rafa@ralphcode.com" 
+                       class="px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-lg font-bold transition-all transform hover:scale-105">
+                        Enviar Email
+                    </a>
+                    <a href="https://ralphcode.com" 
+                       class="px-8 py-3 bg-slate-700 hover:bg-slate-600 rounded-lg font-bold transition-all transform hover:scale-105 border border-slate-600">
+                        Visitar Blog
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
