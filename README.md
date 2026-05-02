@@ -83,10 +83,4 @@ Ingeniero DevOps con experiencia en automatización, infraestructura como códig
 src="https://img.shields.io/github/followers/ralphdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
