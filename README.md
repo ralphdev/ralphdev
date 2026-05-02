@@ -89,6 +89,4 @@ src="https://img.shields.io/github/followers/ralphdev?logo=github&style=for-the-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
-
-<a href="http://www.github.com/ralphdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
